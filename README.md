@@ -2,7 +2,7 @@
 - 👀 I’m interested in Everything.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 💞️ I’m looking to collaborate on some projects related to Artificial Intelligence.
-- 📫 How to reach me : Hallucina@gmail.com
+- 📫 How to reach me : Hallucina0322@gmail.com
 
 <!---
 Hallucina0322/Hallucina0322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
